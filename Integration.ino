@@ -17,6 +17,8 @@ Servo servo;
 //--------------------------- STRUCTURE SUBTEAM
 
 //--------------------------- DESCENT SUBTEAM
+int signalPin2=5;
+int deltaV=0;
 
 //--------------------------- END OF DEFINING
 //---------------------------VOID SETUP
@@ -59,7 +61,9 @@ void setup() {
 //--------------------------- STRUCTURE SUBGROUP CODE
 
 //--------------------------- DESCENT SUBGROUP CODE
-  
+  EYW::Altimeter a;
+  a.calibrate(10);
+  pinMode(signalPin2,OUTPUT);
 }
 
 

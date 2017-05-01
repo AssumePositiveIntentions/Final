@@ -73,5 +73,7 @@ void loop(){
   //--------------------------- STRUCTURE SUBGROUP CODE
 
   //--------------------------- DESCENT SUBGROUP CODE
-  
+  //if altitude==0{
+  // sound alarm;
+  //maybe sound out descent velocity in morse code?
 }

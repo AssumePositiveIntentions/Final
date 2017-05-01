@@ -19,6 +19,9 @@ Servo servo;
 //--------------------------- DESCENT SUBTEAM
 int signalPin2=5;
 int deltaV=0;
+int idealDeltaV=3;
+int i=0;
+int heights[dropHeight/idealDeltaV];
 
 //--------------------------- END OF DEFINING
 //---------------------------VOID SETUP
@@ -73,7 +76,11 @@ void loop(){
   //--------------------------- STRUCTURE SUBGROUP CODE
 
   //--------------------------- DESCENT SUBGROUP CODE
-  //if altitude==0{
-  // sound alarm;
-  //maybe sound out descent velocity in morse code?
+  if (altitude==0){
+    
+   sound alarm();
+  }
+  heights[i]=a.getHeight();
+  i++;
+  delay(1000);
 }

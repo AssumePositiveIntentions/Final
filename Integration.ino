@@ -84,4 +84,4 @@ void loop(){
   heights[i]=a.getHeight();
   i++;
   delay(1000);
-}
+} //--------------------------- END OF VOID SETUP

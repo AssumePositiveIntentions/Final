@@ -15,14 +15,15 @@ int delay2 = 2000; //time holding down
 int delay3 = 2000; //time holding down
 Servo servo;
 //--------------------------- STRUCTURE SUBTEAM
-
+float drop_height = 0; //input initial drop height
+float current_height = 0; //input initial drop height
+EYW::Altimeter a;
 //--------------------------- DESCENT SUBTEAM
 int signalPin2=5;
 int deltaV=0;
 int idealDeltaV=3;
 int i=0;
 int heights[dropHeight/idealDeltaV];
-
 //--------------------------- END OF DEFINING
 
 //---------------------------VOID SETUP
@@ -63,22 +64,25 @@ void setup() {
     delay(15);                    
   }//stays at rest forever
 //--------------------------- STRUCTURE SUBGROUP CODE
-
+  Serial.begin(9600);
+  a.begin();
+  a.calibrate(100); //takes first 100 measurements as calibration
+  a.alarm();
 //--------------------------- DESCENT SUBGROUP CODE
-  EYW::Altimeter a;
-  a.calibrate(10);
   pinMode(signalPin2,OUTPUT);
-
+  
 } //--------------------------- END OF VOID SETUP
 
 //---------------------------------------- VOID LOOP
 void loop(){
   //--------------------------- CAMERA SUBGROUP CODE
   //--------------------------- STRUCTURE SUBGROUP CODE
-
+  current_height = a.getHeightAvg (20);//takes the average of 20 heights to get current height
+  Serial.print("Current Height: "+current_height+"");
+  if (current_height > drop_height) {
+  a.alarm(6,2000,500); } //intiates the drop mechanism
   //--------------------------- DESCENT SUBGROUP CODE
   if (altitude==0){
-    
    sound alarm();
   }
   heights[i]=a.getHeight();

@@ -24,6 +24,7 @@ int i=0;
 int heights[dropHeight/idealDeltaV];
 
 //--------------------------- END OF DEFINING
+
 //---------------------------VOID SETUP
 void setup() {
 
@@ -67,8 +68,8 @@ void setup() {
   EYW::Altimeter a;
   a.calibrate(10);
   pinMode(signalPin2,OUTPUT);
-}
 
+} //--------------------------- END OF VOID SETUP
 
 //---------------------------------------- VOID LOOP
 void loop(){

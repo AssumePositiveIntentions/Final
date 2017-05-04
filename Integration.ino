@@ -77,15 +77,15 @@ void setup() {
 void loop(){
   //--------------------------- CAMERA SUBGROUP CODE
   //--------------------------- STRUCTURE SUBGROUP CODE
-  current_height = a.getHeightAvg (20);//takes the average of 20 heights to get current height
+  current_height = a.getHeightAvg (20);//takes the average of 20 measurements to get current height
   Serial.print("Current Height: "+current_height+"");
   if (current_height > drop_height) {
   a.alarm(6,2000,500); } //intiates the drop mechanism
   //--------------------------- DESCENT SUBGROUP CODE
   if (altitude==0){
-   sound alarm();
+   a.alarm(heights[i-1]-heights[i]);//gonna have to overwrite the alarm method here
   }
-  heights[i]=a.getHeight();
+  heights[i]=a.getHeightAvg(20);
   i++;
   delay(1000);
-} //--------------------------- END OF VOID SETUP
+} //--------------------------- END OF VOID LOOP

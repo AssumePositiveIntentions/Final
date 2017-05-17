@@ -25,7 +25,63 @@ int idealDeltaV=3;
 int i=0;
 int heights[dropHeight/idealDeltaV];
 //--------------------------- END OF DEFINING
-
+void alarm(int i){
+while(heights[i]==heights[i-1]&&lifted==true&&dropped==true){
+    switch(height[i-2]-height[i-1]){
+      case 1:
+      a.alarm(1,880,250);
+      delay(10);
+      a.alarm(4, 880,1000);
+      break;
+      case 2:
+      a.alarm(2,880,250);
+      delay(10);
+      a.alarm(3, 880,1000);
+      break;
+      case 3:
+      a.alarm(3,880,250);
+      delay(10);
+      a.alarm(2, 880,1000);
+      break;
+      case 4:
+      a.alarm(4,880,250);
+      delay(10);
+      a.alarm(1, 880,1000);
+      break;
+      case 5:
+      a.alarm(5,880,250);
+      break;
+      case 6:
+      a.alarm(1, 880,1000);
+      delay(10);                    
+      a.alarm(4,880,250);
+      break;
+      case 7:
+      a.alarm(2, 880,1000);
+      delay(10);
+      a.alarm(3,880,250);
+      break;
+      case 8:
+      a.alarm(3, 880,500*2);
+      delay(10);
+      a.alarm(2,880,250);
+      break;
+      case 9:
+      a.alarm(4, 880,500*2);
+      delay(10);
+      a.alarm(1,880,250);
+      break;
+      case 0:
+      a.alarm(5, 880,500*2);
+      break;
+      default:
+      a.led(1);
+    }
+    delay(1000);
+}
+ delay(1000);
+}
+}
 //---------------------------VOID SETUP
 void setup() {
 

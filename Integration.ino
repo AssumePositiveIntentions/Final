@@ -5,8 +5,7 @@ void setup(){
   Serial.println("Initializing.....");
   Serial.print(a.begin());
   a.calibrate(10);
-  pinMode(5,OUTPUT);
-}
+  pinMode(5,OUTPUT); }
 boolean lifted=false,dropped=false;
 int height[20]={0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0};
 void loop(){
@@ -15,11 +14,9 @@ void loop(){
  height[i]=(int)a.getHeightAvg(10);
  Serial.println(height[i]);
  if(height[i-1]<height[i]){
-  lifted=true;
- }
+  lifted=true; }
  if(height[i-1]>height[i]){
-  dropped=true;
- }
+  dropped=true; }
  int speed=(height[i-3]-height[i-2])*2;
  while(height[i]==height[i-1]&&lifted==true&&dropped==true){
     switch(speed%10){
@@ -70,17 +67,13 @@ void loop(){
       a.alarm(5, 880,500*2);
       break;
       default:
-      a.led(1);
-    }
-    
+      a.led(1); }
     delay(1500);
     if(a.getHeightAvg(10)>height[i]){
       lifted=false;
       int height[20]={0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0};
-      i=0;
-    }
- 
-}
+      i=0; }
+ }
  delay(500);
 }
 }

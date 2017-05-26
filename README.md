@@ -27,3 +27,10 @@
 25. wait 10 ms;
 26. sound the alarm four times for 500 ms, four dashes or dahs;
 27. break out of the switch statement and to the end of the while loop;
+28. this case will run if speed%10 is 2;
+29. sound the alarm twice for 250ms, two dots or dits;
+30. wait for 10 ms;
+31. sound the alarm three times for 500 ms, three dashes or dahs;
+32. break out of the switch statement and to the end of the while loop;
+33. this case will run if speed%10 is 3;
+34. 

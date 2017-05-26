@@ -5,6 +5,7 @@ Created to staticly host images and videos used in our final report
 ## Launch Day Documentation
 
 ### Leading up to launch
+![Before Launch](/docs/assets/before1.jpg)
 ![Image](https://assumepositiveintentions.github.io/Final/docs/assets/before1.jpg)
 ![Image](https://assumepositiveintentions.github.io/Final/docs/assets/before2.jpg)
 ### During/throughout launch

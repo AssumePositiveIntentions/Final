@@ -1,5 +1,4 @@
 [Photos](https://assumepositiveintentions.github.io/Final/photos) | [Videos](https://assumepositiveintentions.github.io/Final/videos) | [Our Code](https://assumepositiveintentions.github.io/Final/code) | [Our Code Explained](https://assumepositiveintentions.github.io/Final/decoded)
------------- | ------------- | ------------ | ------------ 
 
 # All of the code uploaded to the Arduino:
 ```c++

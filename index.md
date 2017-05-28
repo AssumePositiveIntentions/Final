@@ -6,19 +6,17 @@ Created to staticly host images and videos used in our final report
 
 ### Leading up to launch
 ![Before Launch](https://assumepositiveintentions.github.io/Final/assets/Before1.JPG)
-![Before Launch 1](https://raw.githubusercontent.com/AssumePostitiveIntentions/final/master/Before1.JPG)
-![Image](https://assumepositiveintentions.github.io/Final/docs/assets/before1.jpg)
-![Image](https://assumepositiveintentions.github.io/Final/docs/assets/before2.jpg)
+![Before Launch 2](https://assumepositiveintentions.github.io/Final/assets/Before2.JPG)
 ### During/throughout launch
-![Image](https://assumepositiveintentions.github.io/Final/docs/assets/during1.jpg)
-![Image](/assets/during2.jpg)
-![Image](/assets/during3.jpg)
-![Image](/assets/during4.jpg)
-![Image](/assets/during5.jpg)
-![Image](/assets/during6.jpg)
+![Image](https://assumepositiveintentions.github.io/Final/assets/During1.JPG)
+![Image](https://assumepositiveintentions.github.io/Final/assets/During2.JPG)
+![Image](https://assumepositiveintentions.github.io/Final/assets/During3.JPG)
+![Image](https://assumepositiveintentions.github.io/Final/assets/During4.JPG)
+![Image](https://assumepositiveintentions.github.io/Final/assets/During5.JPG)
+![Image](https://assumepositiveintentions.github.io/Final/assets/During6.JPG)
 ### Post-landing
-![Image](/assets/landed1.jpg)
-![Image](/assets/landed2.jpg)
-![Image](/assets/landed3.jpg)-->
+![Image](https://assumepositiveintentions.github.io/Final/assets/Landed1.JPG)
+![Image](https://assumepositiveintentions.github.io/Final/assets/Landed2.JPG)
+![Image](https://assumepositiveintentions.github.io/Final/assets/Landed3.JPG)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

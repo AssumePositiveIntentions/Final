@@ -2,7 +2,7 @@
 
 # Figures used to convey design:
 
-# | Figure | Explanation
+Number | Figure | Explanation
 ------------ | ------------ | -------------
 1 | Content from cell 1 | Content from cell 2
 2 | Content in the first column | Content in the second column

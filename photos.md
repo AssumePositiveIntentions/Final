@@ -1,4 +1,4 @@
-[Photos](https://assumepositiveintentions.github.io/Final/photos) | [Videos](https://assumepositiveintentions.github.io/Final/videos) | [Our Code](https://assumepositiveintentions.github.io/Final/code) | [Our Code Explained](https://assumepositiveintentions.github.io/Final/decoded)
+[Home](https://assumepositiveintentions.github.io/Final/) | [Videos](https://assumepositiveintentions.github.io/Final/videos) | [Our Code](https://assumepositiveintentions.github.io/Final/code) | [Our Code Explained](https://assumepositiveintentions.github.io/Final/decoded)
 
 # Photos taken on Launch Day
 

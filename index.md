@@ -17,6 +17,5 @@ Created to staticly host images and videos used in our final report
 ### Post-landing
 ![Image](https://assumepositiveintentions.github.io/Final/assets/Landed1.JPG)
 ![Image](https://assumepositiveintentions.github.io/Final/assets/Landed2.JPG)
-![Image](https://assumepositiveintentions.github.io/Final/assets/Landed3.JPG)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

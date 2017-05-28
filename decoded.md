@@ -1,4 +1,4 @@
-[Home](https://assumepositiveintentions.github.io/Final/) | [Figures](https://assumepositiveintentions.github.io/Final/figures) | [Photos](https://assumepositiveintentions.github.io/Final/photos) | [Videos](https://assumepositiveintentions.github.io/Final/videos) | [Our Code](https://assumepositiveintentions.github.io/Final/code)
+[Home](https://assumepositiveintentions.github.io/Final/) | [Figures](https://assumepositiveintentions.github.io/Final/figures) | [Photos](https://assumepositiveintentions.github.io/Final/photos) | [Videos](https://assumepositiveintentions.github.io/Final/videos) | [Code/Circuit](https://assumepositiveintentions.github.io/Final/code)
 
 # Line-by-line explanation of the code that was programmed into the Arduino:
 

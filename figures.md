@@ -12,6 +12,6 @@ Number | Figure | Explanation
 6 | Content in the first column | Content in the second column
 7 | Content in the first column | Content in the second column
 8 | Content in the first column | Content in the second column
-9 | Content in the first column | Content in the second column
-10 | Content in the first column | Content in the second column
-11 | Content in the first column | Content in the second column
+9 | ![Payload 1](https://assumepositiveintentions.github.io/Final/assets/Payload1.PNG) | Content in the second column
+10 | ![Payload 2](https://assumepositiveintentions.github.io/Final/assets/Payload2.PNG) | Content in the second column
+11 | ![Payload 3](https://assumepositiveintentions.github.io/Final/assets/Payload3.PNG) | Content in the second column

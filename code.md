@@ -1,1 +1,2 @@
-# Here is all of the code uploaded to the Arduino:
+# All of the code uploaded to the Arduino:
+{% include Integration.ino %}

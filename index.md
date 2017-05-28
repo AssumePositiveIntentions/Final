@@ -2,20 +2,12 @@
 
 Created to staticly host media used in our final report
 
-## Launch Day Documentation
+## From the home page, you can be linked to
+- [Photos] (https://assumepositiveintentions.github.io/Final/photos)
+- [Videos] (https://assumepositiveintentions.github.io/Final/videos)
+- [Our Code] (https://assumepositiveintentions.github.io/Final/code)
+- [Our Code Explanation] (https://assumepositiveintentions.github.io/Final/decoded)
 
-### Leading up to launch
-![Before Launch 1](https://assumepositiveintentions.github.io/Final/assets/Before1.JPG)
-![Before Launch 2](https://assumepositiveintentions.github.io/Final/assets/Before2.JPG)
-### During/throughout launch
-![Image](https://assumepositiveintentions.github.io/Final/assets/During1.JPG)
-![Image](https://assumepositiveintentions.github.io/Final/assets/During2.JPG)
-![Image](https://assumepositiveintentions.github.io/Final/assets/During3.JPG)
-![Image](https://assumepositiveintentions.github.io/Final/assets/During4.JPG)
-![Image](https://assumepositiveintentions.github.io/Final/assets/During5.JPG)
-![Image](https://assumepositiveintentions.github.io/Final/assets/During6.JPG)
-### Post-landing
-![Image](https://assumepositiveintentions.github.io/Final/assets/Landed1.JPG)
-![Image](https://assumepositiveintentions.github.io/Final/assets/Landed2.JPG)
+### To get back here, just click on the link that says HOME at the top of each page. Enjoy!
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

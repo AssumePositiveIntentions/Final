@@ -1,6 +1,6 @@
 # Welcome to the Assume Positive Intentions EYW Final Project website
 
-Created to staticly host images and videos used in our final report
+Created to staticly host media used in our final report
 
 ## Launch Day Documentation
 

@@ -2,7 +2,7 @@
 
 Created to staticly host media used in our final report
 
-[Home](https://assumepositiveintentions.github.io/Final/) | [Photos](https://assumepositiveintentions.github.io/Final/photos) | [Videos](https://assumepositiveintentions.github.io/Final/videos) | [Our Code](https://assumepositiveintentions.github.io/Final/code) | [Our Code Explained](https://assumepositiveintentions.github.io/Final/decoded)
+[Photos](https://assumepositiveintentions.github.io/Final/photos) | [Videos](https://assumepositiveintentions.github.io/Final/videos) | [Our Code](https://assumepositiveintentions.github.io/Final/code) | [Our Code Explained](https://assumepositiveintentions.github.io/Final/decoded)
 
 
 ## From the home page, you can be linked to

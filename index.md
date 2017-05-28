@@ -6,8 +6,10 @@ Created to staticly host media used in our final report
 - [Photos](https://assumepositiveintentions.github.io/Final/photos)
 - [Videos](https://assumepositiveintentions.github.io/Final/videos)
 - [Our Code](https://assumepositiveintentions.github.io/Final/code)
-- [Our Code Explanation](https://assumepositiveintentions.github.io/Final/decoded)
+- [Our Code Explained](https://assumepositiveintentions.github.io/Final/decoded)
 
-### To get back here, just click on the link that says HOME at the top of each page. Enjoy!
+### We hope you enjoy!
+
+#### -API
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).

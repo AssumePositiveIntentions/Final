@@ -1,6 +1,6 @@
 [Home](https://assumepositiveintentions.github.io/Final/) | [Figures](https://assumepositiveintentions.github.io/Final/figures) | [Photos](https://assumepositiveintentions.github.io/Final/photos) | [Videos](https://assumepositiveintentions.github.io/Final/videos) | [Our Code Explained](https://assumepositiveintentions.github.io/Final/decoded)
 
-# All of the code uploaded to the Arduino:
+# All of the code uploaded to the Arduino
 ```c++
 #include <EYW.h>
   EYW::Altimeter a;

@@ -6,6 +6,7 @@ Created to staticly host images and videos used in our final report
 
 ### Leading up to launch
 ![Before Launch](https://assumepositiveintentions.github.io/Final/assets/Before1.JPG)
+![Before Launch 1](https://raw.githubusercontent.com/AssumePostitiveIntentions/final/master/Before1.JPG)
 ![Image](https://assumepositiveintentions.github.io/Final/docs/assets/before1.jpg)
 ![Image](https://assumepositiveintentions.github.io/Final/docs/assets/before2.jpg)
 ### During/throughout launch

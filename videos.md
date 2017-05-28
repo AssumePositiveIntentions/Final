@@ -6,3 +6,6 @@
 [![Launch footage video](http://img.youtube.com/vi/qy21oT7Ep4Q/0.jpg)](http://www.youtube.com/watch?v=qy21oT7Ep4Q)
 
 ## Videos of drop taken from a camera on the ground during launches:
+[![Launch footage video](http://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=VIDEO_ID_HERE)
+[![Launch footage video](http://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=VIDEO_ID_HERE)
+[![Launch footage video](http://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=VIDEO_ID_HERE)

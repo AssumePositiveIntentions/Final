@@ -1,15 +1,15 @@
 # Photos taken on Launch Day
 
 ### Leading up to launch
-![Before Launch](https://assumepositiveintentions.github.io/Final/assets/Before1.JPG)
+![Before Launch 1](https://assumepositiveintentions.github.io/Final/assets/Before1.JPG)
 ![Before Launch 2](https://assumepositiveintentions.github.io/Final/assets/Before2.JPG)
 ### During/throughout launch
-![Image](https://assumepositiveintentions.github.io/Final/assets/During1.JPG)
-![Image](https://assumepositiveintentions.github.io/Final/assets/During2.JPG)
-![Image](https://assumepositiveintentions.github.io/Final/assets/During3.JPG)
-![Image](https://assumepositiveintentions.github.io/Final/assets/During4.JPG)
-![Image](https://assumepositiveintentions.github.io/Final/assets/During5.JPG)
-![Image](https://assumepositiveintentions.github.io/Final/assets/During6.JPG)
+![During 1](https://assumepositiveintentions.github.io/Final/assets/During1.JPG)
+![During 2](https://assumepositiveintentions.github.io/Final/assets/During2.JPG)
+![During 3](https://assumepositiveintentions.github.io/Final/assets/During3.JPG)
+![During 4](https://assumepositiveintentions.github.io/Final/assets/During4.JPG)
+![During 5](https://assumepositiveintentions.github.io/Final/assets/During5.JPG)
+![During 6](https://assumepositiveintentions.github.io/Final/assets/During6.JPG)
 ### Post-landing
-![Image](https://assumepositiveintentions.github.io/Final/assets/Landed1.JPG)
-![Image](https://assumepositiveintentions.github.io/Final/assets/Landed2.JPG)
+![Post 1](https://assumepositiveintentions.github.io/Final/assets/Landed1.JPG)
+![Post 2](https://assumepositiveintentions.github.io/Final/assets/Landed2.JPG)

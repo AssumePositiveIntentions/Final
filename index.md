@@ -2,7 +2,7 @@
 
 # Welcome to the Assume Positive Intentions EYW Final Project website
 
-Created to staticly host media used in our final report
+Created to staticly host media and code used in our final report
 
 ## From the home page, you can be linked to
 - [Photos](https://assumepositiveintentions.github.io/Final/photos)

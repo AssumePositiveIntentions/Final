@@ -5,7 +5,7 @@ Created to staticly host images and videos used in our final report
 ## Launch Day Documentation
 
 ### Leading up to launch
-![Before Launch](/docs/assets/before1.jpg)
+![Before Launch](https://assumepositiveintentions.github.io/Final/assets/Before1.JPG)
 ![Image](https://assumepositiveintentions.github.io/Final/docs/assets/before1.jpg)
 ![Image](https://assumepositiveintentions.github.io/Final/docs/assets/before2.jpg)
 ### During/throughout launch
@@ -15,7 +15,7 @@ Created to staticly host images and videos used in our final report
 ![Image](/assets/during4.jpg)
 ![Image](/assets/during5.jpg)
 ![Image](/assets/during6.jpg)
-### Post-launch
+### Post-landing
 ![Image](/assets/landed1.jpg)
 ![Image](/assets/landed2.jpg)
 ![Image](/assets/landed3.jpg)-->

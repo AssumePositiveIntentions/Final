@@ -13,5 +13,5 @@
 ![During 5](https://assumepositiveintentions.github.io/Final/assets/During5.JPG)
 ![During 6](https://assumepositiveintentions.github.io/Final/assets/During6.JPG)
 ### Post-landing
-![Post 1](https://assumepositiveintentions.github.io/Final/assets/Landed1.JPG)
-![Post 2](https://assumepositiveintentions.github.io/Final/assets/Landed2.JPG)
+![Landed 1](https://assumepositiveintentions.github.io/Final/assets/Landed1.JPG)
+![Landed 2](https://assumepositiveintentions.github.io/Final/assets/Landed2.JPG)

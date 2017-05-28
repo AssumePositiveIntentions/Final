@@ -3,8 +3,8 @@
 # Figures:
 
 1. ![Payload 1](https://assumepositiveintentions.github.io/Final/assets/Payload1.PNG)
-2. ![Payload 2](https://assumepositiveintentions.github.io/Final/assets/Payload2.PNG)
-3. ![Payload 3](https://assumepositiveintentions.github.io/Final/assets/Payload3.PNG)
+2. ![Payload 2](https://assumepositiveintentions.github.io/Final/assets/Payload3.PNG)
+3. ![Payload 3](https://assumepositiveintentions.github.io/Final/assets/Payload2.PNG)
 4. ![Structure 1](https://assumepositiveintentions.github.io/Final/assets/Structure1.PNG)
 5. ![Structure 2](https://assumepositiveintentions.github.io/Final/assets/Structure2.PNG)
 6. ![Structure 3](https://assumepositiveintentions.github.io/Final/assets/Structure3.PNG)

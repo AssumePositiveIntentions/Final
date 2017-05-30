@@ -11,7 +11,7 @@ Created to staticly host media and code used in our final report
 - [Code/Circuit](https://assumepositiveintentions.github.io/Final/code)
 - [Our Code Explained](https://assumepositiveintentions.github.io/Final/decoded)
 
-### We hope you enjoy!
+### Enjoy
 
 #### -API
 

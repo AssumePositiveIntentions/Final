@@ -6,5 +6,5 @@
 [![Launch footage video](http://img.youtube.com/vi/qy21oT7Ep4Q/0.jpg)](http://www.youtube.com/watch?v=qy21oT7Ep4Q)
 
 ## Slow motion videos of drop taken from a camera on the ground during launches:
-[![Launch footage video](http://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=h7VpWxOvasU)
-[![Launch footage video](http://img.youtube.com/vi/VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=JeFwy9_TCIU)
+[![Launch footage video](http://img.youtube.com/vi/h7VpWxOvasU/0.jpg)](http://www.youtube.com/watch?v=h7VpWxOvasU)
+[![Launch footage video](http://img.youtube.com/vi/JeFwy9_TCIU/0.jpg)](http://www.youtube.com/watch?v=JeFwy9_TCIU)

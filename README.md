@@ -1,6 +1,6 @@
 # Final
 ## Format of this file:("Line Number: Commentary");
-1: import premade EYW library to reduce work;
+1: import premade EYW library to reduce work;  
 2: Construct a new "Altimeter" object named 'a';
 3: begin setup() method, setup() runs once and returns nothing;
 4: Initialize the refresh rate of the Serial connection to the computer;

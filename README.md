@@ -27,10 +27,11 @@
 25. wait 10 ms;
 26. sound the alarm four times for 500 ms, four dashes or dahs;
 27. break out of the switch statement and to the end of the while loop;
-28. this case will run if speed%10 is 2;
-29. sound the alarm twice for 250ms, two dots or dits;
-30. wait for 10 ms;
-31. sound the alarm three times for 500 ms, three dashes or dahs;
-32. break out of the switch statement and to the end of the while loop;
-33. this case will run if speed%10 is 3;
-34. 
+28-69. repeat for every digit from 2-9 and 0;
+70. this case is the default case and will only run if there is an error in the code/altimeter failure;
+71. wait 1500 msec between numbers
+72. check to see if current height is greater than the last height before beginning beeping;
+73. set boolean lifted to false;
+74. reset heights[] to zero;
+75. set i to zero and reset the for loop;
+77. wait 500 msec between loops of the for loop;

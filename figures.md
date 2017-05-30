@@ -32,9 +32,3 @@
 ![Descent 1](https://assumepositiveintentions.github.io/Final/assets/Descent1.JPG)
 ### 11
 ![Descent 2](https://assumepositiveintentions.github.io/Final/assets/Descent2.JPG)
-### 12
-![Descent 3](https://assumepositiveintentions.github.io/Final/assets/Descent3.JPG)
-### 13
-![Descent 4](https://assumepositiveintentions.github.io/Final/assets/Descent4.JPG)
-### 14
-![Descent 5](https://assumepositiveintentions.github.io/Final/assets/Descent5.JPG)

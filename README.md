@@ -9,7 +9,7 @@
 - [Photos](https://assumepositiveintentions.github.io/Final/photos)
 - [Videos](https://assumepositiveintentions.github.io/Final/videos)
 
-### All of the assets used in the project can be found [https://github.com/AssumePositiveIntentions/Final/tree/master/assets](here).
+### All of the assets used in the project can be found [here](https://github.com/AssumePositiveIntentions/Final/tree/master/assets).
 
 ### Since the static site was created in Jekyll on Github Pages, it has a configuration file that can be found [here](https://github.com/AssumePositiveIntentions/Final/blob/master/_config.yml). The theme currently in use is [Tactile](https://pages-themes.github.io/tactile/).
 

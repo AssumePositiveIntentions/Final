@@ -83,4 +83,4 @@ void loop(){
 }
 ```
 # Arduino Circuit Diagram
-![Circuit Diagram](https://assumepositiveintentions.github.io/Final/assets/circuit.jpg)
+![Circuit Diagram](https://assumepositiveintentions.github.io/Final/assets/Circuit.jpg)
